@@ -1,0 +1,66 @@
+
+
+
+
+
+header {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2,
+h3 {
+    font-size: 20px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+form .formcontrol {
+    margin-bottom: 20px;
+}
+
+form button {
+    padding: 2px 30px;
+    margin-top: 10px;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.card {
+    padding: 15px;
+}
+
+thead {
+    color: green;
+}
+
+tbody {
+    color: blue;
+}
+
+tfoot {
+    color: red;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 5px 15px;
+    
+}
+
+
+.header {
+    margin-top: 20px;
+}
